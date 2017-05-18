@@ -1,0 +1,15 @@
+button {
+  left: 5px;
+}
+md-toolbar {
+  display: flex;
+}
+.active {
+  color: white;
+}
+.appname {
+  font-size: 24px;
+}
+.rhs {
+  margin-left: auto;
+}
